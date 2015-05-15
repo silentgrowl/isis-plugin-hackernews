@@ -17,3 +17,7 @@ And then execute:
 ## Usage
 
 Post the latest HackerNews top stories into a room by typing ```!hackernews``` or ```!hn``` in chat.
+
+## Links
+
+* [isis-plugin-hackernews on RubyGems](https://rubygems.org/gems/isis-plugin-hackernews)
